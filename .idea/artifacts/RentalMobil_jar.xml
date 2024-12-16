@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RentalMobil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RentalMobil_jar</output-path>
+    <root id="archive" name="RentalMobil.jar">
+      <element id="module-output" name="RentalMobil" />
+    </root>
+  </artifact>
+</component>
